@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "This is my GitHub Test Code!";
+    std::cout << "This is my GitHub Test Code!\n";
+    std::cout << "New Text";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
